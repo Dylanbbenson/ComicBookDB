@@ -1,0 +1,6 @@
+"TEAMID","NAME","LEADERID","ENEMYTEAMID","HQ","MOTIVE"
+201,"Justice League",1,202,302,"Good"
+202,"Legion of Doom",,201,,"Evil"
+203,"Avengers",8,,304,"Good"
+204,"Guardians of the Galaxy",18,,,"Good"
+205,"Guardians of the Globe",24,,,"Good"

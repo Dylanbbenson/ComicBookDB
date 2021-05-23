@@ -1,0 +1,5 @@
+REM INSERTING into EXPORT_TABLE
+SET DEFINE OFF;
+Insert into EXPORT_TABLE (PUBLISHERID,NAME,CREATOR,DATEESTABLISHED,STATUS) values (401,'DC','Wheeler-Nicholson',to_date('22-JUN-34','DD-MON-RR'),'Active');
+Insert into EXPORT_TABLE (PUBLISHERID,NAME,CREATOR,DATEESTABLISHED,STATUS) values (402,'Marvel','Martin Goodman',to_date('05-MAR-39','DD-MON-RR'),'Active');
+Insert into EXPORT_TABLE (PUBLISHERID,NAME,CREATOR,DATEESTABLISHED,STATUS) values (403,'Image Comics','Robert Kirkman',to_date('06-MAR-92','DD-MON-RR'),'Active');
