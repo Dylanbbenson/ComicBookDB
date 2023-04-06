@@ -1,0 +1,21 @@
+hero_id,first_name,last_name,alias,birth_day,sex,hero_status,leader_id,team_id
+100,Tony,Stark,Iron Man,11/17/1967,M,Deceased,,1
+101,Steve,Rogers,Captain America,5/11/1961,F,Deceased,100,1
+102,Thor,Odinson,Thor,3/15/1964,M,Alive,100,1
+103,Bruce,Banner,Hulk,6/25/1971,M,Alive,100,1
+104,Natasha,Romanoff,Black Widow,2/5/1980,F,Deceased,100,1
+105,Clinton,Barton,Hawkeye,2/19/1958,M,Alive,100,1
+106,T'Challa, ,Black Panther,9/5/1969,M,Alive,107,2
+107,Stephen,Strange,Dr. Strange,7/22/1973,M,Alive,,2
+108,Peter,Parker,Spiderman,10/1/1978,M,Alive,107,2
+109,Scott,Lang,Ant-Man,10/2/1978,M,Alive,107,2
+110,James,Rhodes,War Machine,10/3/1978,M,Alive,107,2
+111,Bucky ,Barnes,Winter Soldier,10/4/1978,M,Alive,107,2
+112,Benedict,Wong,Wong,10/5/1978,M,Alive,107,2
+113,Sam,Wilson,Falcon,10/6/1978,M,Alive,107,2
+114,Peter,Quill,Star-Lord,10/7/1978,M,Alive,,3
+115,Rocket,Racoon,Rocket,10/8/1978,M,Alive,114,3
+116,Drax, ,Drax,10/9/1978,M,Alive,114,3
+117,Gamora,,Gamora,10/10/1978,F,Deceased,114,3
+118,Nebula,,Nebula,10/11/1978,F,Alive,114,3
+119,Groot,,Groot,10/12/1978,M,Alive,114,3
